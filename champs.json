@@ -1,0 +1,108 @@
+{
+    "champs": [{
+      "title" : "1. Joe Louis (66-3, 52 KOs)",
+      "rankings_info" : "1",
+      "major_championships" : ["Lineal champion 1937-49"],
+      "description" : "Joe Louis is the standard bearer for heavyweight champions. His lineal championship reign was the longest in the division’s history, and he defended his crown 25 consecutive times, tops among his historical rivals. Moreover, Louis’s 26 total title bout wins is the most ever by a heavyweight in the history of the sport. Louis is quite clearly the most accomplished heavyweight champion ever.",
+      "poster" : "Joe.jpg",
+      "hero_image" : "louis_big.jpg"
+    },
+  
+    {
+      "title" : "2. Muhammad Ali (56-5, 37 KOs)",
+      "rankings_info" : "2",
+      "major_championships" : ["Lineal champion 1964-70 and 1974-78 and 1978"],
+      "description" : "Nicknamed “The Greatest,” Muhammad Ali comes pretty close to living up to it. He is the only heavyweight to ever hold the lineal championship on three different occasions, and Ali’s 22 title bout wins ranks No. 3 all time. Ali was a fantastic boxer with fast hands and feet. Moreover, his grit and determination were unparalleled, and he proved his quality by being the best heavyweight of the division’s best era, the 1970s.",
+      "poster" : "Ali.jpg",
+      "hero_image" : "ali_big.jpg"
+    },
+  
+    {
+      "title" : "3. Larry Holmes (69-6, 44 KOs)",
+      "rankings_info" : "3",
+      "major_championships" : ["Lineal champion 1980-85, WBC 1978-83, IBF 1983-85"],
+      "description" : "Larry Holmes defended his heavyweight championship 20 times before being bested by Michael Spinks in 1985. He earned a total of 21 title bout wins over the course of his career against excellent competition. Holmes probably had the best jab in the history of the division and was adept at throwing punches on the move.",
+      "poster" : "Larry.jpg",
+      "hero_image" : "larry_big.jpg"
+    },
+  
+    {
+      "title" : "4. Lennox Lewis (42-2-1, 32 KOs)",
+      "rankings_info" : "4",
+      "major_championships" : ["Lineal champion 1998-2001, WBC 1997-99, WBC/WBA/IBF 1999-2000, WBC/IBF 2000-01, WBC/IBF 2001-02, WBC 2002-03"],
+      "description" : "Lennox Lewis is the most accomplished heavyweight of the second-best era in the division’s fabled history. He proved himself to be the class of the 1990s and won a total of 15 title bouts over the course of his impressive career. His wins over Evander Holyfield and Mike Tyson make his inclusion in any top-five heavyweight list a no-brainer.",
+      "poster" : "Lennox.jpeg",
+      "hero_image" : "lennox_big.jpg"
+    },
+  
+    {
+      "title" : "5. Wladimir Klitschko (64-5, 53 KOs)",
+      "rankings_info" : "5",
+      "major_championships" : ["Lineal champion 2013-present, WBO 2000-03, IBF 2006-present, WBO 2008-present, WBA 2011-present"],
+      "description" : "The younger Klitschko brother is one of the most accomplished heavyweight titleholders ever. He’s held some version of the heavyweight championship since 2008 and has defended it 17 consecutive times, third most in the division’s history. Wladimir Klitschko’s 24 total title bout wins is second only to Joe Louis’s 26.",
+      "poster" : "Wlad.jpg",
+      "hero_image" : "wlad_big.jpg"
+    },
+  
+    {
+      "title" : "6. Jack Johnson (55-11-8, 35 KOs)",
+      "rankings_info" : "6",
+      "major_championships" : ["Lineal champion 1908-15"],
+      "description" : "Jack Johnson was the first black heavyweight champion and one of the finest defensive fighters who ever lived. He wore the heavyweight crown for eight years and defended his claim to the throne a total of eight times. Johnson could block and parry punches better than any other heavyweight ever, and his thudding power made mincemeat out of would-be usurpers.",
+      "poster" : "Johnson.jpg",
+      "hero_image" : "jackj_big.jpg"
+    },
+
+    {
+      "title" : "7. Rocky Marciano (49-0, 43 KOs)",
+      "rankings_info" : "7",
+      "major_championships" : ["Lineal champion 1952-55"],
+      "description" : "Rocky Marciano is the only heavyweight champion to ever retire undefeated. His rugged style and powerful punches made him almost impossible to beat in his era, and he proved resourceful enough over the span of his career to pull out remarkable knockout wins when all seemed lost. Marciano’s mauling style is sometimes underappreciated but was unmistakably effective.",
+      "poster" : "Rocky.jpg",
+      "hero_image" : "rocky_big.jpg"
+    },
+
+    {
+      "title" : "8. Evander Holyfield (44-10-2, 29 KOs)",
+      "rankings_info" : "8",
+      "major_championships" : ["Lineal champion 1990-92, WBC/WBA/IBF 1990-92, WBA/IBF 93-94, WBA 1996-99, WBA 2000-01"],
+      "description" : "Probably the greatest cruiserweight ever, Evander Holyfield also won legitimate versions of the heavyweight title four times in his career, including twice capturing the lineal championship. He won 10 total title bouts against a myriad of stalwart opposition and consistently displayed the ability to overcome long odds to recapture heavyweight glory when most folks thought it impossible.",
+      "poster" : "Holy.jpg",
+      "hero_image" : "holy_big.jpg"
+    },
+
+    {
+      "title" : "9. George Foreman (76-5, 68 KOs)",
+      "rankings_info" : "9",
+      "major_championships" : ["Lineal champion 1973-74, Lineal champion 1994-97, WBA/IBF 1994-95, IBF 1995."],
+      "description" : "George Foreman was twice lineal champion with 20 years separating each title reign. He was a standout in the most historically deep heavyweight era ever, the 1970s, and earned the championship again in the other great era of the division, the 1990s. Foreman remains the oldest heavyweight to ever capture the title. He was 45 when he knocked out Michael Moorer in 1994.",
+      "poster" : "George.jpg",
+      "hero_image" : "foreman_big.jpg"
+    },
+
+    {
+      "title" : "10. Vitali Klitschko (45-2, 41 KOs)",
+      "rankings_info" : "10",
+      "major_championships" : ["Lineal champion 2004, WBO 1999-2000, WBC 2004, WBC 2008-2012"],
+      "description" : "Vitali Klitschko finished his impressive career with nine consecutive defenses of the WBC title. Moreover, he’s tied with Lennox Lewis for fifth-most title-bout wins in the division at 15. Like his younger brother, Wladimir, Klitschko is often underrated among contemporary boxing aficionados but will likely be far more appreciated by future historians.",
+      "poster" : "Vitali.jpg",
+      "hero_image" : "vitali_big.jpg"
+    },
+    {
+      "title" : "11. Joe Frazier (32-4-1, 27 KOs)",
+      "rankings_info" : "11",
+      "major_championships" : ["Lineal champion 1970-73"],
+      "description" : "Joe Frazier was a heavyweight mauler. The tremendously gifted pressure fighter defeated Muhammad Ali in their first fight in 1970 and gave “The Greatest” all he could handle in the other two bouts, too. Frazier’s left hook remains one of heavyweight boxing’s single greatest punches by historical measures, and he’s the type of rough and tough destroyer that would have been a great champion in any era.",
+      "poster" : "JoeF.jpg",
+      "hero_image" : "frazier_big.jpg"
+    },
+    {
+      "title" : "12. Jack Dempsey (54-6-9, 44 KOs)",
+      "rankings_info" : "12",
+      "major_championships" : ["Lineal champion 1919-26"],
+      "description" : "Jack Dempsey was America’s first great heavyweight champion. He filled stadiums and proved boxing was more than just a niche attraction on the American sport landscape during the 1920s. Dempsey was a punishing puncher and offensive juggernaut. He knocked out Jess Willard in 1919 to capture the world’s attention and held the championship for seven years until he was carefully outboxed by fellow great Gene Tunney.",
+      "poster" : "Jack.jpg",
+      "hero_image" : "jackd_big.jpg"
+    }]
+
+  }

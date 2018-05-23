@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+   <% include partials/head.ejs %>
+
+
+  </head>
+  <body>
+
+    <% include partials/header.ejs %>
+
+    <div id="hero-image-single" style="background-image: url('/images/<%= champ.hero_image%>')">
+      <h1 id="hero-title"><%= title %></h1>
+    </div>
+
+    <div class="content-padding clearfix">
+        <div class="poster-wrapper">
+            <img src="/images/<%=champ.poster%>" class="img-responsive">
+        </div>
+
+        <div class="description-wrapper">
+            <div class="description">
+                <h2 class ="movie-header">Description</h2>
+                <p><%= champ.description %></p>
+            </div>
+            <div class="main-characters">
+                <h2 class="movie-header">Major Championships</h2>
+                <ul>
+                    <% for (var i = 0; i < major_championships.length; i++) { %>
+                        <li> 
+                            <%= major_championships[i] %>
+                        </li>
+                    
+                    <% } %>
+
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+
+ 
+
+ 
+    
+
+   
+
+    <% include partials/footer.ejs %>
+     <% include partials/scripts.ejs %>
+    </body>
+</html>

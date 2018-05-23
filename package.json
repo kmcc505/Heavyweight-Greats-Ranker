@@ -1,0 +1,19 @@
+{
+  "name": "heavyweights",
+  "version": "1.0.0",
+  "description": "top twelve all-time heavyweight champs list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelsey McCarson",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "i": "^0.3.6",
+    "pg-promise": "^8.4.4"
+  }
+}

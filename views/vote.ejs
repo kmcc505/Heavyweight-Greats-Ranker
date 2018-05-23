@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+   <% include partials/head.ejs %>
+
+  </head>
+  <body>
+
+    <% include partials/header.ejs %>
+
+ 
+    <div id="hero-image">
+      <h2 id="hero-title"><%= title %></h2>
+    </div>
+
+    <div id="posters-wrapper" class="content-padding clearfix">
+
+      <div>
+        <p>
+          Kelsey McCarson is an award-winning boxing writer and heavyweight boxing historian. Kelsey has contibuted
+          to Bleacher Report, CNN.com, FoxSports.com, TheSweetScience.com and many other authoritive sports 
+          websites. Kelsey currently writes for TheSweetScience.com and NYFights.com and he occasionally does work for 
+          Bleacher Report. 
+        </p>
+        <p>
+          Don't like this list? You can have your say by voting for these rankings below. Rankings will be updated
+          quaterly. Kelsey will also poll noted boxing historians and writers and the aggregate of the rankings 
+          will become the new historial heavyweight rankings for this website. 
+          </p>
+      </div>
+      <br>
+      <form class="form-horizontal" action="/votes" method="POST" style="width: 70%; margin: 0 auto">
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 1.</label>
+          <div class="col-sm-10">
+            <input name="one" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 2.</label>
+          <div class="col-sm-10">
+            <input name="two" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 3.</label>
+          <div class="col-sm-10">
+            <input name="three" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 4.</label>
+          <div class="col-sm-10">
+            <input name="four" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 5.</label>
+          <div class="col-sm-10">
+            <input name="five" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 6.</label>
+          <div class="col-sm-10">
+            <input name="six" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 7.</label>
+          <div class="col-sm-10">
+            <input name="seven" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 8.</label>
+          <div class="col-sm-10">
+            <input name="eight" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 9.</label>
+          <div class="col-sm-10">
+            <input name="nine" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputTest" class="col-sm-2 control-label">No. 10.</label>
+          <div class="col-sm-10">
+            <input name="ten" type="text" class="form-control" placeholder="Fighter name" required>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-default">Submit</button>
+          </div>
+        </div>
+       
+      </form>
+    </div>
+
+   
+
+    <% include partials/footer.ejs %>
+     <% include partials/scripts.ejs %>
+    </body>
+</html>
